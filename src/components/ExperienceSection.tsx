@@ -33,8 +33,8 @@ function ExperienceCard({
               Internship
             </span>
           ) : (
-            <span className="inline-flex items-center px-2 py-0.5 rounded-full text-xs font-semibold bg-blue-50 text-yellow-600 border border-yellow-200">
-              Fullt-ime
+            <span className="inline-flex items-center px-2 py-0.5 rounded-full text-xs font-semibold bg-yellow-50 text-yellow-600 border border-yellow-200">
+              Full-time
             </span>
           )}
         </div>
