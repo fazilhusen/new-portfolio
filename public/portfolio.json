@@ -26,7 +26,7 @@
   "experience": [
     {
       "company": "Tata Consultancy Services Ltd.",
-      "companyLink": null,
+      "companyLink": "https://www.tcs.com/",
       "position": "System Engineer",
       "duration": "Feb 2025 – Present",
       "location": "Hyderabad, India",
@@ -100,7 +100,7 @@
     }
   ],
   "skills": {
-    "programmingLanguages": ["Java", "Javascript", "Python", "SQL", "C++"],
+    "programmingLanguages": ["Java", "Javascript", "Python", "SQL", "C++", "Bash", "Flutter"],
     "technologies": [
       "Apigee",
       "Linux",
@@ -109,10 +109,17 @@
       "ReactJS",
       "NextJS",
       "GKE",
-      "AWS",
+      "Redis",
+      "AWS EC2",
       "Docker",
+      "PostgresSQL",
       "ELK",
-      "Prometheus"
+      "AWS S3",
+      "Prometheus",
+      "AlertManager",
+      "MySQL",
+      "Postman",
+      "Shell Script"
     ]
   },
   "education": [
